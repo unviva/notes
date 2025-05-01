@@ -3,6 +3,6 @@ export default defineAppConfig({
   cover: '/cover.jpg',
   socials: {
     twitter: 'arsta42',
-    github: 'blueorange589'
+    github: 'unviva'
   }
 })
